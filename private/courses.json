@@ -1,0 +1,90 @@
+[
+  {
+    "id": "primeiros-passos",
+    "title": "Primeiros passos",
+    "headline": "Seu primeiro investimento começa com conhecimento.",
+    "description": "Reserva, objetivos e juros compostos. Construa uma base para fazer as perguntas certas.",
+    "style": "first",
+    "art": "01",
+    "lessons": [
+      {
+        "id": "primeiros-passos-1",
+        "title": "Seu momento e seus objetivos"
+      },
+      {
+        "id": "primeiros-passos-2",
+        "title": "Orçamento e reserva para imprevistos"
+      },
+      {
+        "id": "primeiros-passos-3",
+        "title": "Juros compostos, tempo e planejamento"
+      }
+    ]
+  },
+  {
+    "id": "renda-fixa",
+    "title": "Renda fixa",
+    "headline": "Renda fixa. Sem ideias fixas.",
+    "description": "Entenda CDBs, títulos públicos e indexadores — e por que os preços também podem oscilar.",
+    "style": "fixed",
+    "art": "CDI",
+    "lessons": [
+      {
+        "id": "renda-fixa-1",
+        "title": "O que significa renda fixa"
+      },
+      {
+        "id": "renda-fixa-2",
+        "title": "Taxas, indexadores e inflação"
+      },
+      {
+        "id": "renda-fixa-3",
+        "title": "Liquidez, risco e leitura das condições"
+      }
+    ]
+  },
+  {
+    "id": "fundos-bolsa",
+    "title": "Fundos e bolsa",
+    "headline": "Fundos e bolsa, sem complicar.",
+    "description": "Cotas, taxas, ações, FIIs e ETFs: conheça a lógica e as diferenças, sem indicação de ativos.",
+    "style": "funds",
+    "art": "FUNDOS",
+    "lessons": [
+      {
+        "id": "fundos-bolsa-1",
+        "title": "Fundos, cotas e documentos"
+      },
+      {
+        "id": "fundos-bolsa-2",
+        "title": "Ações, FIIs e ETFs: uma visão inicial"
+      },
+      {
+        "id": "fundos-bolsa-3",
+        "title": "Custos, prazos e perguntas importantes"
+      }
+    ]
+  },
+  {
+    "id": "risco-contexto",
+    "title": "Risco e contexto",
+    "headline": "Mais contexto. Menos impulso.",
+    "description": "Retorno real, riscos e perfil: clareza para compreender as informações do mercado.",
+    "style": "risk",
+    "art": "◎",
+    "lessons": [
+      {
+        "id": "risco-contexto-1",
+        "title": "Risco, retorno e liquidez"
+      },
+      {
+        "id": "risco-contexto-2",
+        "title": "Perfil de investidor e seus objetivos"
+      },
+      {
+        "id": "risco-contexto-3",
+        "title": "Informação não é recomendação"
+      }
+    ]
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "id": "primeiros-passos-1",
+    "title": "Seu momento e seus objetivos",
+    "course": "primeiros-passos",
+    "paragraphs": [
+      "Antes de olhar produtos, descreva o que você deseja realizar, quando pretende usar o dinheiro e que oscilações conseguiria suportar. Objetivos e prazos dão contexto às decisões."
+    ],
+    "exercise": "Anote uma dúvida sobre este tema e uma informação que você verificaria antes de tomar uma decisão. Não registre valores, documentos ou dados financeiros nesta página.",
+    "sources": [
+      {
+        "title": "Portal do Investidor — CVM",
+        "url": "https://www.gov.br/investidor/pt-br/investir/antes-de-investir/entenda-as-caracteristicas-dos-investimentos"
+      },
+      {
+        "title": "Caderno de Educação Financeira — Banco Central",
+        "url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf"
+      }
+    ]
+  },
+  {
+    "id": "primeiros-passos-2",
+    "title": "Orçamento e reserva para imprevistos",
+    "course": "primeiros-passos",
+    "paragraphs": [
+      "Uma visão das receitas, despesas e compromissos ajuda a entender a capacidade de poupar. Uma reserva para imprevistos exige atenção à facilidade de acesso ao dinheiro e aos riscos, não apenas à rentabilidade."
+    ],
+    "exercise": "Anote uma dúvida sobre este tema e uma informação que você verificaria antes de tomar uma decisão. Não registre valores, documentos ou dados financeiros nesta página.",
+    "sources": [
+      {
+        "title": "Portal do Investidor — CVM",
+        "url": "https://www.gov.br/investidor/pt-br/investir/antes-de-investir/entenda-as-caracteristicas-dos-investimentos"
+      },
+      {
+        "title": "Caderno de Educação Financeira — Banco Central",
+        "url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf"
+      }
+    ]
+  },
+  {
+    "id": "primeiros-passos-3",
+    "title": "Juros compostos, tempo e planejamento",
+    "course": "primeiros-passos",
+    "paragraphs": [
+      "Juros compostos significam que os rendimentos passam a integrar a base de cálculo dos períodos seguintes. O resultado depende da taxa, do tempo, de aportes, de custos e de tributos; uma simulação não garante retorno futuro."
+    ],
+    "exercise": "Anote uma dúvida sobre este tema e uma informação que você verificaria antes de tomar uma decisão. Não registre valores, documentos ou dados financeiros nesta página.",
+    "sources": [
+      {
+        "title": "Portal do Investidor — CVM",
+        "url": "https://www.gov.br/investidor/pt-br/investir/antes-de-investir/entenda-as-caracteristicas-dos-investimentos"
+      },
+      {
+        "title": "Caderno de Educação Financeira — Banco Central",
+        "url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf"
+      }
+    ]
+  },
+  {
+    "id": "renda-fixa-1",
+    "title": "O que significa renda fixa",
+    "course": "renda-fixa",
+    "paragraphs": [
+      "Na renda fixa, a remuneração ou sua forma de cálculo é conhecida no momento da aplicação. Isso não torna todos os produtos iguais nem elimina os riscos. Há diferenças de emissor, prazo e regras de negociação."
+    ],
+    "exercise": "Anote uma dúvida sobre este tema e uma informação que você verificaria antes de tomar uma decisão. Não registre valores, documentos ou dados financeiros nesta página.",
+    "sources": [
+      {
+        "title": "Portal do Investidor — CVM",
+        "url": "https://www.gov.br/investidor/pt-br/investir/antes-de-investir/entenda-as-caracteristicas-dos-investimentos"
+      },
+      {
+        "title": "Caderno de Educação Financeira — Banco Central",
+        "url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf"
+      }
+    ]
+  },
+  {
+    "id": "renda-fixa-2",
+    "title": "Taxas, indexadores e inflação",
+    "course": "renda-fixa",
+    "paragraphs": [
+      "A remuneração pode ser prefixada, vinculada a um indicador ou combinar uma taxa com a variação de um índice. Compare o que cada condição significa e lembre que inflação e custos afetam o poder de compra."
+    ],
+    "exercise": "Anote uma dúvida sobre este tema e uma informação que você verificaria antes de tomar uma decisão. Não registre valores, documentos ou dados financeiros nesta página.",
+    "sources": [
+      {
+        "title": "Portal do Investidor — CVM",
+        "url": "https://www.gov.br/investidor/pt-br/investir/antes-de-investir/entenda-as-caracteristicas-dos-investimentos"
+      },
+      {
+        "title": "Caderno de Educação Financeira — Banco Central",
+        "url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf"
+      }
+    ]
+  },
+  {
+    "id": "renda-fixa-3",
+    "title": "Liquidez, risco e leitura das condições",
+    "course": "renda-fixa",
+    "paragraphs": [
+      "Liquidez é a facilidade de converter um investimento em dinheiro a um valor justo. Um título pode ter vencimento distante e restrições para resgate antecipado. Preços podem oscilar antes do vencimento; leia as condições e os riscos."
+    ],
+    "exercise": "Anote uma dúvida sobre este tema e uma informação que você verificaria antes de tomar uma decisão. Não registre valores, documentos ou dados financeiros nesta página.",
+    "sources": [
+      {
+        "title": "Portal do Investidor — CVM",
+        "url": "https://www.gov.br/investidor/pt-br/investir/antes-de-investir/entenda-as-caracteristicas-dos-investimentos"
+      },
+      {
+        "title": "Caderno de Educação Financeira — Banco Central",
+        "url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf"
+      }
+    ]
+  },
+  {
+    "id": "fundos-bolsa-1",
+    "title": "Fundos, cotas e documentos",
+    "course": "fundos-bolsa",
+    "paragraphs": [
+      "Um fundo reúne recursos de cotistas segundo regras e uma política de investimento. Uma cota representa uma fração do patrimônio do fundo. Leia os documentos, os fatores de risco, as taxas e os prazos antes de avaliar qualquer aplicação."
+    ],
+    "exercise": "Anote uma dúvida sobre este tema e uma informação que você verificaria antes de tomar uma decisão. Não registre valores, documentos ou dados financeiros nesta página.",
+    "sources": [
+      {
+        "title": "Portal do Investidor — CVM",
+        "url": "https://www.gov.br/investidor/pt-br/investir/antes-de-investir/entenda-as-caracteristicas-dos-investimentos"
+      },
+      {
+        "title": "Caderno de Educação Financeira — Banco Central",
+        "url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf"
+      }
+    ]
+  },
+  {
+    "id": "fundos-bolsa-2",
+    "title": "Ações, FIIs e ETFs: uma visão inicial",
+    "course": "fundos-bolsa",
+    "paragraphs": [
+      "Ações representam participação em empresas. FIIs e ETFs são estruturas de fundos com características próprias. Ter cotas negociadas em bolsa não faz com que esses instrumentos tenham a mesma finalidade ou os mesmos riscos."
+    ],
+    "exercise": "Anote uma dúvida sobre este tema e uma informação que você verificaria antes de tomar uma decisão. Não registre valores, documentos ou dados financeiros nesta página.",
+    "sources": [
+      {
+        "title": "Portal do Investidor — CVM",
+        "url": "https://www.gov.br/investidor/pt-br/investir/antes-de-investir/entenda-as-caracteristicas-dos-investimentos"
+      },
+      {
+        "title": "Caderno de Educação Financeira — Banco Central",
+        "url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf"
+      }
+    ]
+  },
+  {
+    "id": "fundos-bolsa-3",
+    "title": "Custos, prazos e perguntas importantes",
+    "course": "fundos-bolsa",
+    "paragraphs": [
+      "Compare despesas, regras de negociação, prazos de cotização e liquidação e riscos descritos nos documentos. Não interprete o desempenho passado ou um material publicitário como promessa de resultado."
+    ],
+    "exercise": "Anote uma dúvida sobre este tema e uma informação que você verificaria antes de tomar uma decisão. Não registre valores, documentos ou dados financeiros nesta página.",
+    "sources": [
+      {
+        "title": "Portal do Investidor — CVM",
+        "url": "https://www.gov.br/investidor/pt-br/investir/antes-de-investir/entenda-as-caracteristicas-dos-investimentos"
+      },
+      {
+        "title": "Caderno de Educação Financeira — Banco Central",
+        "url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf"
+      }
+    ]
+  },
+  {
+    "id": "risco-contexto-1",
+    "title": "Risco, retorno e liquidez",
+    "course": "risco-contexto",
+    "paragraphs": [
+      "Risco, retorno e liquidez são dimensões diferentes. Retorno esperado não é retorno garantido; alta liquidez não elimina riscos de crédito ou de mercado. Um percentual isolado não explica todas as características de uma aplicação."
+    ],
+    "exercise": "Anote uma dúvida sobre este tema e uma informação que você verificaria antes de tomar uma decisão. Não registre valores, documentos ou dados financeiros nesta página.",
+    "sources": [
+      {
+        "title": "Portal do Investidor — CVM",
+        "url": "https://www.gov.br/investidor/pt-br/investir/antes-de-investir/entenda-as-caracteristicas-dos-investimentos"
+      },
+      {
+        "title": "Caderno de Educação Financeira — Banco Central",
+        "url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf"
+      }
+    ]
+  },
+  {
+    "id": "risco-contexto-2",
+    "title": "Perfil de investidor e seus objetivos",
+    "course": "risco-contexto",
+    "paragraphs": [
+      "O perfil envolve situação financeira, objetivos, conhecimento e tolerância a perdas. Responda com honestidade aos questionários institucionais. Um mesmo investidor pode ter objetivos diferentes que exigem análises distintas."
+    ],
+    "exercise": "Anote uma dúvida sobre este tema e uma informação que você verificaria antes de tomar uma decisão. Não registre valores, documentos ou dados financeiros nesta página.",
+    "sources": [
+      {
+        "title": "Portal do Investidor — CVM",
+        "url": "https://www.gov.br/investidor/pt-br/investir/antes-de-investir/entenda-as-caracteristicas-dos-investimentos"
+      },
+      {
+        "title": "Caderno de Educação Financeira — Banco Central",
+        "url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf"
+      }
+    ]
+  },
+  {
+    "id": "risco-contexto-3",
+    "title": "Informação não é recomendação",
+    "course": "risco-contexto",
+    "paragraphs": [
+      "Uma notícia ou uma aula pública explica conceitos; não substitui uma avaliação individual. Procure fontes confiáveis, leia os documentos e desconfie de promessas. Orientações individuais devem ocorrer pelos canais institucionais autorizados."
+    ],
+    "exercise": "Anote uma dúvida sobre este tema e uma informação que você verificaria antes de tomar uma decisão. Não registre valores, documentos ou dados financeiros nesta página.",
+    "sources": [
+      {
+        "title": "Portal do Investidor — CVM",
+        "url": "https://www.gov.br/investidor/pt-br/investir/antes-de-investir/entenda-as-caracteristicas-dos-investimentos"
+      },
+      {
+        "title": "Caderno de Educação Financeira — Banco Central",
+        "url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf"
+      }
+    ]
+  }
+]
